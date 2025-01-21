@@ -1,37 +1,12 @@
-# Daily-Digest
-Project Overview  This project aims to develop a user-friendly and engaging news application that delivers a personalized and efficient news reading experience. The app will serve as a central hub for users to access the latest news articles from a diverse range of reputable sources, tailored to their individual interests.
+# News-website
 
-**Features:**
+Node.js project using express, ejs where we fetch the news data from news api.
 
-* **Personalized News Feed:** Users can customize their news feed by selecting their interests (e.g., technology, sports, politics).
-* **Breaking News Alerts:** Receive real-time notifications for breaking news stories.
-* **Offline Reading:** Save articles for offline reading.
-* **Search Functionality:** Easily search for articles by keyword or topic.
-* **Article Sharing:** Share articles with friends and family via social media or messaging apps.
-* **Source Selection:** Choose from a variety of reputable news sources.
-* **User Profiles:** Create user accounts to personalize settings and save preferences.
+<h2><a id="user-content-installation" class="anchor" aria-hidden="true" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Installation</h2>
+<p>To run this project, install it locally using npm:</p>
+<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="$ npm install
+$ npm start
+"><pre><code>$ npm install
+$ node app.js
+</code></pre></div>
 
-**Technologies Used:**
-
-* **Frontend:** 
-    * React 
-    * JavaScript
-    * CSS/SCSS
-* **Backend:** 
-    * Node.js
-
-**Installation:**
-
-1. Clone this repository: `git clone <repository_url>`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
-
-**Contributing:**
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Fork this repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with clear and concise messages.
-4. Push your branch to your fork.
-5. Create a pull request.
